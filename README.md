@@ -18,10 +18,6 @@ Input: "catbaby"
 Output: "ybabtac"
 ```
 
-**Do not call any type of built-in reverse method!**
-
-Please solve the problem using iteration.
-
 Use the language of your choosing. We've included starter files for some
 languages where you can pseudocode, explain your solution and code.
 
@@ -37,10 +33,6 @@ languages where you can pseudocode, explain your solution and code.
 
 ## How to run your own tests
 
-### Ruby
-
-1. `cd` into the ruby folder
-2. `ruby <filename>.rb`
 
 ### JavaScript
 
@@ -49,11 +41,6 @@ languages where you can pseudocode, explain your solution and code.
 
 ## How to run our tests
 
-### Ruby
-
-1. `cd` into the ruby folder
-2. `bundle install`
-3. `rspec`
 
 ### JavaScript
 
